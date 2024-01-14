@@ -39,7 +39,7 @@ This project presents an interactive Tableau dashboard designed to visualize key
 
 ### Image of the Dashboard
 
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](https://github.com/ruju0901/HR_data-analytics/blob/main/dashboard_image.png)
 
 
 ## Instructions for Use
